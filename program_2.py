@@ -24,6 +24,7 @@ def math_quiz():
         print("Correct")
     else:
         print("Incorrect")
+        print(correct_answer)
 
 math_quiz()
 # The program should allow the student to enter the answer.
